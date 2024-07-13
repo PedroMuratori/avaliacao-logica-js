@@ -1,1 +1,0 @@
-# avaliacao-logica-js
